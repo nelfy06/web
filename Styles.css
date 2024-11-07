@@ -1,0 +1,74 @@
+body {
+    font-family: 'Lato', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #e0f7fa; /* Color azul muy claro */
+}
+
+header {
+    background-color: #f8f9fa;
+    padding: 1rem;
+}
+
+footer {
+    background-color: #f8f9fa;
+    padding: 1rem;
+    text-align: center;
+}
+
+main {
+    padding: 2rem;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    color: #343a40;
+}
+
+h2 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    color: #343a40;
+}
+
+p {
+    color: #6c757d;
+}
+
+.navbar-brand img {
+    margin-right: 0.5rem;
+}
+
+.card-img-top {
+    height: 150px;
+    object-fit: cover;
+}
+
+.jumbotron {
+    background-color: #e9ecef;
+    padding: 4rem 2rem;
+}
+
+.jumbotron img {
+    margin: 2rem 0;
+    border-radius: 10px;
+}
+
+.card-body img {
+    float: left;
+    margin-right: 1rem;
+    border-radius: 50%;
+}
+
+.social-icons img {
+    width: 40px;
+    margin: 0 10px;
+}
+
+.img-thumbnail {
+    border: 1px solid #dee2e6;
+    border-radius: 0.25rem;
+    padding: 0.25rem;
+    background-color: #fff;
+}
